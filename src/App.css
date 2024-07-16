@@ -1,0 +1,20 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  --bg-color: #9CCB16;
+  --color:#061FA2;
+  --font-fam: Times New Roman;
+  --font-fam-2: Arial Narrow;
+  --header-font-size: 28px;
+  --subtitle-font-size: 20px;
+  --subtitle-style: normal;
+  --subtitle-weight: 400;
+  background-color: var(--bg-color);
+  color: var(--color);
+}
+
+
