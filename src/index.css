@@ -167,4 +167,9 @@ input[type=text], select, textarea {
   height: 70vh;
 }
 
+textarea {
+  min-width: 90%;
+  max-width: 90%;
+}
+
 
