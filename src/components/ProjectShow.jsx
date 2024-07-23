@@ -1,7 +1,11 @@
-export default function ProjectShow(){
-    return(
+export default function ProjectShow({ project }){
+
+
+
+    return (
         <div>
-            Project Show
+            <h3>{project.name}</h3>
+            <a href={project.demo} target="_blank" rel="noopener noreferrer">Demo</a>
         </div>
-    )
+    );
 }
