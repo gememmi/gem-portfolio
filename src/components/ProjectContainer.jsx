@@ -5,54 +5,49 @@ export default function ProjectContainer() {
   const projectsArray = [
     {
       id: 1,
+      name: "Project 4",
+      demo: "https://www.facebook.com/",
+       github: "https://github.com",
+       image: "./moon 1.png"
+    },
+    {
+
+      
+      id: 2,
       name: "StarBright",
       demo: "https://www.loom.com/share/8a255f28f87c47918d30dd16102bba52",
       github: "https://github.com/gememmi/StarBright",
-      image: "./moon 1.png"
-    },
-    {
-      id: 2,
-      name: "Project 2",
-      demo: "https://www.facebook.com/",
-       github: "https://github.com",
-       image: "./moon 1.png"
-
+      image: "./starbright.png"
     },
     {
       id: 3,
-      name: "Project 3",
+      name: "Rome",
       demo: "https://www.facebook.com/",
        github: "https://github.com",
-       image: "./moon 1.png"
+       image: "./rome.png"
+
     },
-    // {
-    //   id: 4,
-    //   name: "Project 4",
-    //   demo: "https://www.facebook.com/",
-    //    github: "https://github.com",
-    //    image: "./moon 1.png"
-    // },
-    // {
-    //   id: 5,
-    //   name: "Project 4",
-    //   demo: "https://www.facebook.com/",
-    //    github: "https://github.com",
-    //    image: "./moon 1.png"
-    // },
-    // {
-    //   id: 6,
-    //   name: "Project 4",
-    //   demo: "https://www.facebook.com/",
-    //    github: "https://github.com",
-    //    image: "./moon 1.png"
-    // },
-    // {
-    //   id: 7,
-    //   name: "Project 4",
-    //   demo: "https://www.facebook.com/",
-    //    github: "https://github.com",
-    //    image: "./moon 1.png"
-    // },
+    {
+      id: 4,
+      name: "Journey Back to Flatiron",
+      demo: "https://www.facebook.com/",
+       github: "https://github.com",
+       image: "./journeytoflatiron.png"
+    },
+    {
+      id: 5,
+      name: "Aaron and Emily's Bookshop",
+      demo: "https://www.facebook.com/",
+       github: "https://github.com",
+       image: "./aaronandemilybookshopt.png"
+    },
+    {
+      id: 6,
+      name: "Project 4",
+      demo: "https://www.facebook.com/",
+       github: "https://github.com",
+       image: "./5oclocksomewhere.png"
+    },
   ];
 
   return (
