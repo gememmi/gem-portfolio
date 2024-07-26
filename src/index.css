@@ -198,9 +198,44 @@ margin: 0 auto;
 
 .project {
   text-align: left;
+  width: 90%;
+  height: 30%;
 }
 
-#project-div button {
-align-self: flex-start;
 
+.project-image-div {
+  border: 1px solid var(--color);
+  height: 20vh;
+  width: 100%;
+  flex-shrink: 0;
+  margin-bottom: 3vh;
+  overflow: hidden;
+}
+
+.project-image-div img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.project h4 {
+  font-size: 20px;
+  font-family: "Arial Narrow";
+  font-weight: var(--subtitle-weight);
+  line-height: 0;
+  margin-top: 3rem;
+}
+
+#project-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+#project-buttons button {
+  background-color: var(--bg-color);
+  border: 0.75px solid var(--color);
+  border-radius: 16px;
+  padding-bottom: 5px;
+  color: var(--color);
+  
 }
