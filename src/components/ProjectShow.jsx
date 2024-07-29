@@ -7,16 +7,14 @@ export default function ProjectShow({ project }) {
       </div>
       <div id="project-buttons">
         <button>
-          {"Demo"}
-          <a href={project.demo} target="_blank" rel="noopener noreferrer"></a>
+          <a href={project.demo} target="_blank" rel="noopener noreferrer">
+            Demo
+          </a>
         </button>
         <button>
-          {" Github"}
-          <a
-            href={project.github}
-            target="_blank"
-            rel="noopener noreferrer"
-          ></a>
+          <a href={project.github} target="_blank" rel="noopener noreferrer">
+            Github
+          </a>
         </button>
       </div>
     </div>
