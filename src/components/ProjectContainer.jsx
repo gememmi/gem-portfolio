@@ -8,7 +8,7 @@ export default function ProjectContainer() {
       name: "Kasia's Catering",
       demo: "https://kasialemanek.netlify.app/",
       github: "https://github.com/gememmi/kasia-site-1.0",
-      image: "./kasiasite.png",
+      image: "./images/kasiasite.png",
       alt: "black catering site screenshot"
     },
     {
@@ -16,7 +16,7 @@ export default function ProjectContainer() {
       name: "StarBright",
       demo: "https://www.loom.com/share/8a255f28f87c47918d30dd16102bba52",
       github: "https://github.com/gememmi/StarBright",
-      image: "./starbright.png",
+      image: "./images/starbright.png",
       alt: "pink and purple log in screen to mood tracker"
     },
     {
@@ -24,7 +24,7 @@ export default function ProjectContainer() {
       name: "Rome",
       demo: "https://www.loom.com/share/43bc1bbc37a04093ab0e085206a40735",
       github: "https://github.com/gememmi/Rome",
-      image: "./rome.png",
+      image: "./images/rome.png",
       alt:"white and black forum screenshot"
     },
     {
@@ -32,7 +32,7 @@ export default function ProjectContainer() {
       name: "Journey Back to Flatiron",
       demo: "https://www.loom.com/share/1c85e7c990e7429eb0c78705f3a813c8",
       github: "https://github.com/gememmi/Journey-Back-to-Flatiron",
-      image: "./journeytoflatiron.png",
+      image: "./images/journeytoflatiron.png",
       alt:"black videogame start screenshot"
     },
     {
@@ -40,7 +40,7 @@ export default function ProjectContainer() {
       name: "Aaron and Emily's Bookshop",
       demo: "https://www.loom.com/share/8af0d2232ec747a586a822040a8f4c86?sid=31d736c7-d1dd-40ff-9ec7-e5aa2ec3a086",
       github: "https://github.com/gememmi/AaronEmilyBookshop",
-      image: "./aaronandemilybookshopt.png",
+      image: "./images/aaronandemilybookshopt.png",
       alt: "red online bookshop screenshot"
     },
     {
@@ -48,7 +48,7 @@ export default function ProjectContainer() {
       name: "5 o'Clock Somewhere!",
       demo: "https://www.loom.com/share/3c983c68eb8747258fc1e75f09422141?sid=d0b39b93-7245-4686-8539-5d07c32bbf64",
       github: "https://github.com/gememmi/5oClockSomewhere",
-      image: "./5oclocksomewhere.png",
+      image: "./images/5oclocksomewhere.png",
       alt: "nyc beer index screenshot"
     },
   ];
